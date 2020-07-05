@@ -1,0 +1,46 @@
+Körlük,25,Jose Saramago,Kırmızı Kedi Yayınları
+Olağanüstü Bir Gece,7,Stefan Zweıg,Kültür Yayınları
+Bir İdam Mahkumunun Son Gunu,7.50,Victor Hugo,Kültür Yayınları
+Olağanüstü Bir Gece,6.0,Stefan Zweıg,Kültür Yayınları
+Beyaz Zambaklar Ülkesinde,9.94,Grigoriy Petrov,Koridor Yayıncılık
+Altıncı Koğuş,5.25,Anton Çehov,Kültür Yayınları
+Dönüşüm,4.50,Franz Kafka,Kültür Yayınları
+Sineklerin Tanrısı,12.0,William Golding,Kültür Yayınları
+Satranç,5.25,Stefan Zweıg,Kültür Yayınları
+Kırmızı Pazartesi,12.0,Gabriel Garcia Marquez,Can Yayınları
+Kürk Mantolu Madonna,12.90,Sabahattin Ali,Yapı Kredi Yayınları
+Geçmişe Yolculuk,5.25,Stefan Zweıg,Kültür Yayınları
+Otomatik Portakal,11.90,Anthony Burger,Kültür Yayınları
+Veronika Ölmek İstiyor,29.90,Paulo Coelho,Can Yayınları
+Kuyucaklı Yusuf,9.95,Sabahattin Ali,Yapı Kredi Yayınları
+Bir Kuzey Macerası,5.25,Jack London,Kültür Yayınları
+Mecburiyet,4.50,Stefan Zweıg,Kültür Yayınları
+Momo,24.58,Micheal Ende,Pegasus Yayınlarını
+Kardeşimin Hikayesi,28.48,Livaneli,Doğan Kitap
+İçimizdeki Şeytan,10.50,Sabahattin Ali,Yapı Kredi Yayınları
+Bir Kedi Bir Adam Bir Ölüm,24.92,Zülfü Livaneli,Doğan Kitap
+İnsancıklar,9.38,Dostoyevski,CAn Yayınları
+Suçluyorum,4.88,Emıle Zola,Can Yayınları
+Serenad,40.0,Zülfü Livaneli,Doğan Kitap
+Sırça Köşk,10.90,Sabahattin Ali,Yapı Kredi Yayınları
+Huzursuzluk,28.90,Livaneli,Doğan Kitap
+Olasılıksız,21.70,Adam Fawer,April Yayınları
+Kelebek Adası,23.90,Sarah Jio,Pena Yayınları
+Bir Kalbin Çöküşü,2.09,Stefan Zweıg,Aperatif Kitap Yayınları
+Geç Bir Doktorun Anıları,8.90,Mihail Bulgakov,Kültür Yayınları
+Psikiyatrist,32.78,Wulf Dorn,Pegasus Yayınları
+YerAltından Notlar,8.25,Dostoyevski,Can Yayınları
+Kırlangıç Çığlığı,23.90,Ahmet Ümit,Yapı Kredi Yayınları
+Sefiller,12.03,Victor Hugo,Kitap Zamanı Yayınları
+Göğü Delen Adam,10.50,Erich Scheurman,Ayrıntı Yayınları
+Mahalle Kahvesi,8.90,Sait Faik Abasıyanık,Kültür Yayınları
+Kabil,15.64,Jose Saramago,Kırmızı Kedi Yayınevi
+Ateşçi,2.20,Franz Kafka,Aperatif Kitap Yayınları
+Martın Eden,18.75,Jack London,Kültür Yayınları
+Vazgeçtim,14.90,Kahraman Tazeoğlu,Destek Yayınları
+Dava,10.50,Franz Kafka,Kültür Yayınları
+Veronika Ölmek İstiyor,25.50,Paulo Coelho,Can Yayınları
+Bir Köpeğin Araştırmaları,2.20,Franz Kafka,Aperatif Kitap Yayınları
+Kara Kutu,25.84,Soner Yalçın,Kırmızı Kedi Yayınları
+Uçurtma Avcısı,24.71,Khaled Hosseini,Everest Yayınları
+Fatih Harbiye,5.50,Peyfami Safa,Alkım Yayınevi
